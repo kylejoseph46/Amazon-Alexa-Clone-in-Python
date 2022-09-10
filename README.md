@@ -10,6 +10,6 @@ If you say...
 "Play Music" aloud, the bot will play music from your music library.
 "What is the time" aloud, the bot will respond with the current time.
 "Who is {blank}" aloud, the bot will respond with a description of them from Wikipedia".
-"Bye Kyle" aloud, the program will stop.
+"Bye Kyle" aloud, the program will stop
 
 I used this user's template: https://github.com/Abhayparashar31, and made adjustments and personalized it to myself.
