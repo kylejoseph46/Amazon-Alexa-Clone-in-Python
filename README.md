@@ -1,5 +1,5 @@
 # Amazon-Alexa-Clone-in-Python
-I wrote a script in Python that allows for voice recognition and repsonse when the user speaks aloud.
+I wrote a script in Python that allows for voice recognition and response when the user speaks aloud.
 I utlized the pyttsx3 and speech recognition libraries to make this possible.
 
 I named the Alexa clone after myself Kyle.
