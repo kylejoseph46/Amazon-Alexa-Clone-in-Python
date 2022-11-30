@@ -1,8 +1,8 @@
-# Amazon-Alexa-Clone-in-Python
+# Apple-Siri-Clone
 I wrote a script in Python that allows for voice recognition and response when the user speaks aloud.
 I utilized the pyttsx3 and speech recognition libraries to make this possible.
 
-I named the Alexa clone after myself Kyle.
+I named the Siri clone after myself Kyle.
 If you say...
 
 "Kyle" aloud, the bot will respond with "How can I help you?". 
